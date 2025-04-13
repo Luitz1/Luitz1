@@ -1,90 +1,107 @@
 ## Hi there 👋
 
-<!--
-**Luitz1/Luitz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ## ⚡️ About me
 
-- I’m an engineer with experience in data analysis, Business Intelligence, and automation, committed to process optimization and data-driven decision-making. I specialize in structuring, managing, and analyzing large datasets using tools like Python, Power BI, and advanced Excel, as well as developing customized solutions for workflow integration and automation.
+<hr>
+ <pre>
 
-- I’ve led multidisciplinary teams and executed projects across technological and agricultural environments, ensuring regulatory compliance and continuous process improvement. My background includes software development, database management, and programming in both object-oriented and functional paradigms.
+💻 I’m with experience in data analysis, Business Intelligence, and automation.
+📚 I have a degree in Electronic Engineering.
+📊 I have a strong interest in Data Science and Artificial Intelligence.
+🔭 Working on Data Analyst & Machine Learning.
+🌱 I’ve led multidisciplinary teams and executed projects across technological and agricultural environments.
+🌟 Main languages: Python and VB.
+🚩 Interested in 
+</pre>
+<hr>
+
 
 <br/>
 
 ## 🛠️ Tools
 
-<p align=center>
- <kbd>
-      <kbd>Operating Sytem</kbd>
-      <br>
-      <br>
-        <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> </a>
-        <a href="https://ubuntu.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></a>
-        <a href="https://www.debian.org/" target="_blank"><img width="30px" src="https://www.debian.org/logos/openlogo-nd-25.png" /></a>
-    </kbd>
-      <br>
-    <kbd>
-      <kbd>Programming and Markup Languages</kbd>
-      <br>
-      <br>
-        <a href="https://www.python.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-        <a href="https://www.r-project.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></a>
-        <a href="https://www.cprogramming.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
-        <a href="https://www.lua.org/" target="_blank"><img width="30px" src="https://www.lua.org/images/lua-logo.gif" /></a>
-        <a href="https://learn.microsoft.com/es-es/dotnet/visual-basic/" target="_blank"><img width="30px" src="https://sc.filehippo.net/images/t_app-icon-s/p/671eec42-96d1-11e6-80c9-00163ed833e7/223883934/microsoft-visual-basic-logo" /></a>
-    </kbd>
-      <br>
-    <kbd>
-      <kbd>Data Science & AI</kbd>
-      <br>
-      <br>
-      <a href='https://www.tensorflow.org/' target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-      <a href="https://fluxml.ai/" target="_blank"><img width="30px" src="https://avatars.githubusercontent.com/u/26222520?s=280&v=4" /></a>
-      <a href="https://numpy.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /></a>
-      <a href="https://matplotlib.org/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /></a>
-      <a href="https://scikit-learn.org/stable/" target="_blank"><img width="30px" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo.png" /></a>
-      <a href="https://opencv.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" /></a>
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <a href="https://www.mysql.com/" target="_blank"><img width="30px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" /></a>
-    </kbd>
-      <br>
-    <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br>
-      <br>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /></a>
-        <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" /></a>
-    </kbd>
-    <kbd>
-      <kbd>Text editor, IDE, Notebook</kbd>
-      <br>
-      <br>
-      <a href="https://www.vim.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /></a>
-      <a href="https://www.nano-editor.org/" target="_blank"><img width="30px" src="https://ih1.redbubble.net/image.4813597893.3885/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u6.jpg" /></a>
-      <a href="https://jupyter.org/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></a>
-      <a href="https://code.visualstudio.com/" target="_blank"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      </kbd>
+
+### 👨‍💻 Programming Languages
+<p align="left"> 
+  &emsp;&emsp;&emsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vhv.rs/dpng/d/605-6050124_c-c-logo-hd-png-download.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"></code>
+ <code><img width="10%" src="https://www.diegocalvo.es/wp-content/uploads/2019/05/dax_logo.png"></code>
+ <code><img width="10%" src="https://docs.ghielectronics.com/software/micropython/images/micropython.png"></code>
+ 
+  <br />
+<p>
+ 
+### 🧰 Frameworks and Libraries
+<p align="left"> 
+  &emsp;&emsp;&emsp;
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/pandas.svg"></code>
+ <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png?20180808062052"></code>
+ <code><img width="10%" src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/matplotlib.svg"></code>
+  <br />
 </p>
 
-<br/>
+### 🗄️ Databases
+<p align="left"> 
+  &emsp;&emsp;&emsp; 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg"></code>
+  <br />
+</p>
+
+### 💻 Software and Tools
+<p align="left"> 
+  &emsp;&emsp;&emsp; 
+ <code><img width="10%" src="https://pragmaticworks.com/hs-fs/hubfs/Power-Bi-logo-transparent.png?width=439&name=Power-Bi-logo-transparent.png"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"></code>
+ <code><img width="10%" src="https://profejaime.com/images/2022/08/04/connector-excel-logo.png"></code>
+ <code><img width="10%" src="https://www.uexternado.edu.co/wp-content/uploads/2020/10/Matlab-Logo.png"></code>
+ <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/AutoCad_new_logo.svg/2560px-AutoCad_new_logo.svg.png"></code>
+ <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/2560px-QGIS_logo%2C_2017.svg.png"></code>
+ 
+  <br />
+</p>
+
+### 📝 IDEs
+<p align="left"> 
+  &emsp;&emsp;&emsp; 
+  <code><img width="10%" src="https://cdn.shortpixel.ai/spai/q_lossy+w_512+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://miro.medium.com/v2/resize:fit:1400/0*ydOn9T3LuyMcTOwO"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21~bgwhite.svg"></code>
+ <code><img width="10%" src="https://atareao.es/wp-content/uploads/2017/08/Captura-de-pantalla-de-2017-08-28-10-07-11.png"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21~bgwhite.svg"></code>
+<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png"></code>
+ 
+ 
+  <br />
+</p>
+
+
+### 👨🏽‍💻 Workspace
+<p align="left"> 
+  &emsp;&emsp;&emsp; 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21~bgwhite.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21~bgwhite.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21~bgwhite.svg"></code>
+ 
+  <br />
+</p>
+
+## 📊 Github Status
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Luitz1&theme=react-dark&hide_border=true&area=true)
+
 
 ## 📬 Contact me
 
