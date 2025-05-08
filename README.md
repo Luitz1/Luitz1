@@ -35,7 +35,7 @@ I-am-Luitz1@github
   &emsp;&emsp;&emsp; 
  <code><img width="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRpu_iJF78Grpive2uaag8dHAz_JBiBSRHiw&s"></code>
  <code><img width="8%" src="https://carpiodeluz.vecinosactivos.news/app/wp-content/uploads/sites/2/2021/04/logotipo-microsoft-excel.jpg"></code>
- <code><img width="10%" src="https://www.uexternado.edu.co/wp-content/uploads/2020/10/Matlab-Logo.png"></code>
+ <code><img width="6%" src="https://www.fpgakey.com/uploads/images/original/20200618/0325308b136327.jpg"></code>
  <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Er2-Xj_xcZZ8SUlL5eivJX_vqpAvSCf3wQ&s"></code>
  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/QGIS_logo%2C_2017.svg/2560px-QGIS_logo%2C_2017.svg.png"></code>
  
@@ -47,7 +47,7 @@ I-am-Luitz1@github
   &emsp;&emsp;&emsp;
   <code><img width="8%" src="https://1000marcas.net/wp-content/uploads/2020/11/Python-logo-tumb.jpg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21~bgwhite.svg"></code>
- <code><img width="8%" src="https://www.vhv.rs/dpng/d/605-6050124_c-c-logo-hd-png-download.png"></code>
+ <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"></code>
  <code><img width="8%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21~bgwhite.svg"></code>
  <code><img width="8%" src="https://www.esploradores.com/wp-content/uploads/2019/01/micropython_title-900x480.jpg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21~bgwhite.svg"></code>
@@ -92,7 +92,7 @@ I-am-Luitz1@github
   <code><img width="6%" src="https://cdn.shortpixel.ai/spai/q_lossy+w_512+to_webp+ret_img+p_h/algotrading101.com/learn/wp-content/uploads/2021/05/Google-Colab-Guide-1024x683.jpg"></code>
   <code><img width="8%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21~bgwhite.svg"></code>
   <code><img width="8%" src="https://miro.medium.com/v2/resize:fit:1400/0*ydOn9T3LuyMcTOwO"></code>
- <code><img width="8%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21~bgwhite.svg"></code>
+ <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png"></code>
  <code><img width="8%" src="https://atareao.es/wp-content/uploads/2017/08/Captura-de-pantalla-de-2017-08-28-10-07-11.png"></code>
  <code><img width="8%" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21~bgwhite.svg"></code>
 <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png"></code>
