@@ -14,7 +14,7 @@ Hi there 👋
 I-am-Luitz1@github
 ------------------------------------------------------------------------------
 💻 I’m with experience in data analysis, Business Intelligence, and automation.
-📚 I have a degree in Electronic Engineering.
+📚 I have degrees in Electronic Engineering and Agricultural Engineering.
 📊 I have a strong interest in Data Science and Artificial Intelligence.
 🔭 Working on Data Analyst & Machine Learning.
 🌱 I’ve led multidisciplinary teams and executed projects across technological and 
